@@ -1,0 +1,10 @@
+E:\Reasearch\Data Visualization Software\Arduino Serial Com\bin\Debug\Arduino Serial Com.exe.config
+E:\Reasearch\Data Visualization Software\Arduino Serial Com\bin\Debug\Arduino Serial Com.exe
+E:\Reasearch\Data Visualization Software\Arduino Serial Com\bin\Debug\Arduino Serial Com.pdb
+E:\Reasearch\Data Visualization Software\Arduino Serial Com\obj\Debug\Arduino Serial Com.csprojAssemblyReference.cache
+E:\Reasearch\Data Visualization Software\Arduino Serial Com\obj\Debug\Arduino_Serial_Com.Form1.resources
+E:\Reasearch\Data Visualization Software\Arduino Serial Com\obj\Debug\Arduino_Serial_Com.Properties.Resources.resources
+E:\Reasearch\Data Visualization Software\Arduino Serial Com\obj\Debug\Arduino Serial Com.csproj.GenerateResource.cache
+E:\Reasearch\Data Visualization Software\Arduino Serial Com\obj\Debug\Arduino Serial Com.csproj.CoreCompileInputs.cache
+E:\Reasearch\Data Visualization Software\Arduino Serial Com\obj\Debug\Arduino Serial Com.exe
+E:\Reasearch\Data Visualization Software\Arduino Serial Com\obj\Debug\Arduino Serial Com.pdb
